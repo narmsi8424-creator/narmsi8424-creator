@@ -18,7 +18,7 @@
 | 🌾 Kisan Saathi | Digital assistant for Indian farmers | [View](https://github.com/narmsi8424-creator/kisan-saathi) |
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narmsi8424-creator&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=narmsi8424-creator&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narmsi8424-creator&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 ---
 ⭐ *"Technology should serve those who need it most"*
